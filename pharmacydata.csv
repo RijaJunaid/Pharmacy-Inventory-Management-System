@@ -1,0 +1,25 @@
+customer_name,customer_id,customer_phone number,customer_address,Item_name,type of item,Quantity,Expiry date,price,Vendors,Vendor_phone number
+Ali,12009,3289078,12-iqbal town-nishterblock,Paracetalmol,tablet,45,28-May-23,70,Cardinal health,85603496
+Max,12678,3356789,134-iqbal town-rachnablock,brufen,syrup,320,09-Jun-23,320,Allergan,89903456
+Georgia,45678,3756721,92-iqbal town-karimblock,Aspirin,tablet,65,30-May-23,45,Americansourcebergan,78934581
+Emily,35459,3890443,85-iqbal town-nishterblock,Gabica,pill,42,03-Jun-23,99,Bayer,45789023
+Saud,12345,3378230,78-iqbal town-Asifblock,Hydrocine,steroid,33,25-Jul-23,77,ABB ltd,45678222
+Peter,34891,3345792,25-iqbal town-mehranblock,bandages,First aid,57,N/A,39,Baxter international,19845621
+Furkan,89022,3278345,625-iqbal town-kamranblock,Ativan,pill,87,03-Jun-23,490,Amneal pharamceutical,67239450
+Rida,23879,3299908,45-iqbal town-kashmirblock,Hydrocortisone,ointment,34,03-Feb-24,38,CR pharmaceutical,54088342
+Andrew,56089,3295508,42-iqbal town-humablock,Amoxycilin capcules IP,capsule,125,07-Aug-23,78,,
+Jack,43098,3299908,33-iqbal town-mehranblock,Benzodiazepine,sedative,67,17-Jan-24,78,,
+Zahid,62046,3700234,432-iqbal town-kamranlock,Pullulan capsules,capsule,98,27-Sep-23,99,,
+James,23045,3456669,67-iqbal town-humablock,mometasone,ointment,45,30-May-23,38,,
+kilye,98234,3426711,37-iqbal town-khyberblock,QYCLOD PLUS,capsule,78,17-Jan-24,44,,
+Palwasha,56035,3456222,677-iqbal town-karimblock,flurandrenolide ,ointment,76,03-Jun-23,75,,
+Ayse,78245,3389230,345-iqbal town-kamranblock,Diazepam,sedative,76,17-Nov-23,39,,
+Kerem,96245,3789033,280-iqbal town-kamranblock,Betamethasone,steroid,49,27-Sep-23,88,,
+yaldis,98721,3389032,58-iqbal town-rachnablock,Votadol,capsule,86,07-Aug-23,69,,
+burak,10653,3267890,38-iqbal town-kashmirblock,Latos,syrup,59,17-Jan-24,65,,
+serkan,67045,3789034,272-iqbal town-raviblock,Adderall,pill,86,22-Jul-23,559,,
+Zohaib,23989,3345678,170-iqbal town-humablock,alcohlic swaps,First aid,49,N/A,67,,
+jeong,12007,3256789,507-iqbal town-nishterblock,Oligocin,capsule,66,09-Jun-23,87,,
+Jacob,23004,3350089,56-iqbal town-rachnablock,Arinac,syrup,94,17-Nov-23,945,,
+Jansu,49820,3790234,352-iqbal town-asifblock,Claritin ,ointment,49,03-Jun-23,73,,
+Haya,39460,3268903,269-iqbal town-nishterblock,Lorazepam,sedative,69,20-Jun-23,280,,
