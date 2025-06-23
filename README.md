@@ -3,14 +3,20 @@ This C++ project implements a comprehensive Pharmacy Inventory Management System
 
 Features:
 Secure login (password masking)
+
 Add/remove medications
+
 Track stock (quantity, expiry, price)
+
 Auto-alert for low stock (<15 units)
+
 CSV import/export for data storage
 
 Tech:
 OOP (Classes: Item, PharmacyInventory)
+
 File handling (fstream)
+
 Console-based menu
 
 Use Case:
